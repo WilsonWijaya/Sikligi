@@ -1,0 +1,17 @@
+:root {
+  font-family: "Plus Jakarta Sans", "Segoe UI", system-ui, sans-serif;
+  color: #18293f;
+  background: #f3f5f8;
+  color-scheme: light;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, input { font: inherit; }
+button:focus-visible, input:focus-visible { outline: 3px solid #aab5c1; outline-offset: 2px; }
+#root { width: 100%; max-width: none; min-height: 100vh; margin: 0; border: 0; display: block; text-align: left; }
+h1, h2 { margin: 0; color: #1a2634; font-family: inherit; font-weight: 500; letter-spacing: 0; }
+p { margin: 0; }
