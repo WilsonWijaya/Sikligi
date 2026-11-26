@@ -1,4 +1,4 @@
-<img width="446" height="79" alt="image" src="https://github.com/user-attachments/assets/483a3d9b-9dc8-4a76-9457-34173993b077" /># Sikligi Patient Scheduler
+# Sikligi Patient Scheduler
 
 Sikligi merupakan sistem penjadwalan pasien berbasis web untuk internal klinik gigi yang membantu staf mengelola jadwal kunjungan di setiap cabang klinik. Admin mengatur jadwal, owner memantau perkembangan kunjungan lewat dashboard, dan developer menangani laporan masalah website melalui fitur tiket.
 
